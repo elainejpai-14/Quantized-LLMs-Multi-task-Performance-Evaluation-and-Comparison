@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+datasets
+evaluate
+tqdm
+llama-cpp-python
+scikit-learn
